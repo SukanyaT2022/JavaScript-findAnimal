@@ -1,0 +1,8 @@
+.slide{
+    width: 50%;
+    background-color: pink;
+}
+#targetIMG{
+    width: 200px;
+    height: 200px;
+}
